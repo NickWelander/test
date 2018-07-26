@@ -1,0 +1,58 @@
+div {
+	position: absolute;
+	left: 425px;}
+
+tr {
+	background: #000000;}
+
+button {
+	background: #00FF00;}
+
+td {
+	background: #F8F8FF;
+	border: black 2px solid;
+	width: 100px;
+	height: 100px;
+	text-align: center;
+	font: bold 4em "Courier", Times, serif;
+}
+
+p {
+	font: bold 8em "Courier", Times, serif;
+	position: absolute;
+	left: 20px;
+	top: 10px;}
+	
+
+.n2 {
+	background: #DDDDFF;}
+.n4 {
+	background: #BBBBFF;}
+.n8 {
+	background: #9999FF;}
+.n16 {
+	background: #7777FF;}
+.n32 {
+	background: #5555FF;}
+.n64 {
+	background: #3333FF;}
+.n128 {
+	background: #1818FF;
+	font-size: 3em;}
+.n256 {
+	background: #0000FF;
+	font-size: 3em;}
+.n512 {
+	background: #0000DD;
+	font-size: 3em;}
+.n1024 {
+	background: #0000BB;
+	font-size: 2.5em;}
+.n2048 {
+	background: #000099;
+	font-size: 2.5em;
+	color: #FFFFFF;}
+.n4096 {
+	background: #000077;
+	font-size: 2.5em;
+	color: #FFFFFF;}
